@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pdm_week6</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
